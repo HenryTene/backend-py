@@ -1,0 +1,25 @@
+{
+  "name": "backend-py",
+  "version": "1.0.0",
+  "description": "Backend Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HenryTene/backend-py.git"
+  },
+  "keywords": [
+    "express",
+    "typescript",
+    "node",
+    "mongodb"
+  ],
+  "author": "Henry Tene Torres <henry_tene@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HenryTene/backend-py/issues"
+  },
+  "homepage": "https://github.com/HenryTene/backend-py#readme"
+}
